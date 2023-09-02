@@ -1,1 +1,13 @@
 /* your code */
+thead {
+	color:white;
+	background:#016A70;
+
+}
+tbody {color:blue;}
+tfoot {color:red;}
+
+ th, td {
+  border: 1px solid black;
+	padding:20px;
+}
